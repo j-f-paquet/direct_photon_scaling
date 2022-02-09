@@ -56,7 +56,7 @@ plt.plot(pTmin[mask], slope[mask], "-", color="Red", label="")
 plt.text(0.02, 0.95, r"$N_{coll}$ and $dN_{ch}/d\eta$ from""\n""theoretical calculations", horizontalalignment='left', verticalalignment='top', transform=fig.axes[0].transAxes, fontsize=12)
 
 plt.arrow(0.3, 0.25, -0.26, 0, linewidth=2, transform=fig.axes[0].transAxes)
-plt.text(0.02, 0.22, r"$p_T^{max}=4$ GeV", horizontalalignment='left', verticalalignment='top', transform=fig.axes[0].transAxes, fontsize=12)
+plt.text(0.02, 0.22, r"$p_T^{max}=5$ GeV", horizontalalignment='left', verticalalignment='top', transform=fig.axes[0].transAxes, fontsize=12)
 plt.text(0.02, 0.15, "Centralities:\n0-20%, 20-40%,\n40-60%", horizontalalignment='left', verticalalignment='top', transform=fig.axes[0].transAxes, fontsize=11)
 
 plt.arrow(0.4, 0.25, 0.55, 0, linewidth=2, transform=fig.axes[0].transAxes)
