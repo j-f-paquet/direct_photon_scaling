@@ -1,0 +1,20 @@
+#Figure 3 
+#--------- 
+#(A) -> System                      
+#(B) -> Centrality bin 
+#(C) -> Beam energy in GeV 
+#(D) -> Charged hadron multiplicity at midrapidity 
+#(E) -> Uncertainty of the charged hadron multiplicity at midrapidity 
+#(F) -> Direct photon integrated invariant yield 
+#(G) -> Statistical uncertainty of the direct photon integrated yield 
+#(H) -> Systematic uncertainty of the direct photon integrated yield 
+#------------------------------------------------------------------- 
+#(A)   (B)    (C)   (D)      (E)      (F)        (G)         (H) 
+#Pb+Pb 0-20%  2760  1206.75  45.75    4.75833    0.316776    1.87478           
+#------------------------------------------------------------------- 
+#Au+Au (Physical Review C91, 064904) 
+# (D)      (E)      (F)        (G)         (H) 
+519.025  26.250   1.66115    0.202514    0.5339347       
+225.425  13.175   0.707725   0.0863305   0.2478384      
+85.475   8.075    0.217113   0.0329216   0.0936435       
+16.362   2.814    0.0229508  0.00620148  0.0154707 
